@@ -31,12 +31,12 @@ This project demonstrates comprehensive MongoDB operations using PyMongo, includ
 
 ### 2. Download and add `mongosh` to System Variables (Windows)
 
-1.Download the zip file from [MongoDB Download Center](https://www.mongodb.com/try/download/shell)
+1. Download the zip file from [MongoDB Download Center](https://www.mongodb.com/try/download/shell)
 2. Extract the zip file contents to ```C:\Program Files\MongoDB```
 3. Open **System Properties**
 4. Go to **Environment Variables**
 5. Under **System Variables**, select `Path` → Click **Edit** → **New**
-6. Add path:  
+6. Add path to PATH:  
    ```
    C:\Program Files\MongoDB\mongosh-<version>-win32-x64\bin
    ```
