@@ -1,0 +1,1322 @@
+[
+    {
+        "_id": "68332eb9da0b77ec6b8d1476",
+        "student_id": 93956992,
+        "first_name": "Jennifer",
+        "last_name": "Duke",
+        "email": "jennifer.duke@uniofstn.edu",
+        "department": "Business",
+        "grade_level": "Senior",
+        "gpa": 3.16,
+        "date_of_birth": "2004-04-28",
+        "address": {
+            "street": "04663 Amanda Harbor Suite 807",
+            "city": "Cabreraberg",
+            "state": "Maine",
+            "zip_code": "86196"
+        },
+        "courses": [
+            "Web Development",
+            "Programming",
+            "Machine Learning"
+        ],
+        "enrolled_date": "2021-12-26",
+        "is_active": false,
+        "phone_number": "262-951-6270x78390"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1477",
+        "student_id": 62723956,
+        "first_name": "Rodney",
+        "last_name": "Reed",
+        "email": "rodney.reed@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Senior",
+        "gpa": 3.18,
+        "date_of_birth": "2002-02-16",
+        "address": {
+            "street": "915 Allison Overpass Suite 076",
+            "city": "Lake Emily",
+            "state": "Iowa",
+            "zip_code": "27982"
+        },
+        "courses": [
+            "Physics",
+            "Database Systems",
+            "Calculus",
+            "Machine Learning",
+            "Programming"
+        ],
+        "enrolled_date": "2023-06-22",
+        "is_active": true,
+        "phone_number": "(449)774-3348x37455"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1478",
+        "student_id": 8777583,
+        "first_name": "David",
+        "last_name": "Coleman",
+        "email": "david.coleman@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Junior",
+        "gpa": 3.83,
+        "date_of_birth": "2000-05-13",
+        "address": {
+            "street": "73463 Veronica Row",
+            "city": "Richardport",
+            "state": "Kansas",
+            "zip_code": "23416"
+        },
+        "courses": [
+            "Database Systems",
+            "Machine Learning",
+            "Physics",
+            "Calculus",
+            "Statistics"
+        ],
+        "enrolled_date": "2025-02-16",
+        "is_active": true,
+        "phone_number": "+1-963-411-2621"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1479",
+        "student_id": 81063881,
+        "first_name": "Shelby",
+        "last_name": "Mcdonald",
+        "email": "shelby.mcdonald@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Junior",
+        "gpa": 2.65,
+        "date_of_birth": "2003-09-04",
+        "address": {
+            "street": "8863 Sullivan Loop",
+            "city": "South Miguel",
+            "state": "Pennsylvania",
+            "zip_code": "14883"
+        },
+        "courses": [
+            "Programming",
+            "Database Systems",
+            "Machine Learning",
+            "Calculus",
+            "Web Development"
+        ],
+        "enrolled_date": "2021-06-28",
+        "is_active": true,
+        "phone_number": "6029399243"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d147a",
+        "student_id": 22573480,
+        "first_name": "Brett",
+        "last_name": "Clark",
+        "email": "brett.clark@uniofstn.edu",
+        "department": "Engineering",
+        "grade_level": "Senior",
+        "gpa": 2.73,
+        "date_of_birth": "2005-09-20",
+        "address": {
+            "street": "4771 Zachary Island",
+            "city": "Jameschester",
+            "state": "Iowa",
+            "zip_code": "79020"
+        },
+        "courses": [
+            "Web Development",
+            "Statistics",
+            "Data Structures"
+        ],
+        "enrolled_date": "2023-02-17",
+        "is_active": false,
+        "phone_number": "001-353-647-9788"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d147b",
+        "student_id": 8734830,
+        "first_name": "Carolyn",
+        "last_name": "Coleman",
+        "email": "carolyn.coleman@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Junior",
+        "gpa": 3.74,
+        "date_of_birth": "2004-08-09",
+        "address": {
+            "street": "084 Green Hill",
+            "city": "Larryland",
+            "state": "Washington",
+            "zip_code": "22009"
+        },
+        "courses": [
+            "Machine Learning",
+            "Data Structures",
+            "Statistics",
+            "Physics"
+        ],
+        "enrolled_date": "2022-09-30",
+        "is_active": false,
+        "phone_number": "(485)570-2916"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d147c",
+        "student_id": 85107344,
+        "first_name": "Jeremiah",
+        "last_name": "Bean",
+        "email": "jeremiah.bean@uniofstn.edu",
+        "department": "Mathematics",
+        "grade_level": "Junior",
+        "gpa": 3.9,
+        "date_of_birth": "2005-02-28",
+        "address": {
+            "street": "5357 Matthew Flat",
+            "city": "Lake Robert",
+            "state": "Tennessee",
+            "zip_code": "84012"
+        },
+        "courses": [
+            "Calculus",
+            "Web Development",
+            "Physics",
+            "Statistics",
+            "Data Structures"
+        ],
+        "enrolled_date": "2023-12-20",
+        "is_active": true,
+        "phone_number": "(826)541-8870"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d147d",
+        "student_id": 20578246,
+        "first_name": "Jason",
+        "last_name": "Mitchell",
+        "email": "jason.mitchell@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Junior",
+        "gpa": 3.7,
+        "date_of_birth": "2003-04-12",
+        "address": {
+            "street": "451 Rivera Radial Apt. 094",
+            "city": "New Kevinview",
+            "state": "Pennsylvania",
+            "zip_code": "24192"
+        },
+        "courses": [
+            "Machine Learning",
+            "Statistics",
+            "Web Development",
+            "Calculus",
+            "Database Systems",
+            "Physics"
+        ],
+        "enrolled_date": "2021-12-19",
+        "is_active": true,
+        "phone_number": "327.626.0094"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d147e",
+        "student_id": 916165,
+        "first_name": "Joseph",
+        "last_name": "Lewis",
+        "email": "joseph.lewis@uniofstn.edu",
+        "department": "Engineering",
+        "grade_level": "Senior",
+        "gpa": 2.14,
+        "date_of_birth": "2007-02-22",
+        "address": {
+            "street": "03602 Lee Summit",
+            "city": "Nicolebury",
+            "state": "New Jersey",
+            "zip_code": "12367"
+        },
+        "courses": [
+            "Web Development",
+            "Physics",
+            "Data Structures"
+        ],
+        "enrolled_date": "2025-02-04",
+        "is_active": false,
+        "phone_number": "(902)948-5091x197"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d147f",
+        "student_id": 80510948,
+        "first_name": "Mark",
+        "last_name": "Dunn",
+        "email": "mark.dunn@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Sophomore",
+        "gpa": 3.15,
+        "date_of_birth": "2005-10-19",
+        "address": {
+            "street": "53176 Jennifer Landing",
+            "city": "Kevinburgh",
+            "state": "Utah",
+            "zip_code": "39130"
+        },
+        "courses": [
+            "Web Development",
+            "Physics",
+            "Database Systems",
+            "Machine Learning"
+        ],
+        "enrolled_date": "2022-11-22",
+        "is_active": false,
+        "phone_number": "001-469-613-9564"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1480",
+        "student_id": 25814964,
+        "first_name": "Mary",
+        "last_name": "Braun",
+        "email": "mary.braun@uniofstn.edu",
+        "department": "Business",
+        "grade_level": "Sophomore",
+        "gpa": 3.31,
+        "date_of_birth": "2001-02-19",
+        "address": {
+            "street": "009 Davis Mews Suite 963",
+            "city": "Brittanyburgh",
+            "state": "Alabama",
+            "zip_code": "85275"
+        },
+        "courses": [
+            "Data Structures",
+            "Statistics",
+            "Calculus",
+            "Machine Learning",
+            "Web Development",
+            "Physics"
+        ],
+        "enrolled_date": "2021-10-24",
+        "is_active": true,
+        "phone_number": "770.818.2528"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1481",
+        "student_id": 91353149,
+        "first_name": "Lisa",
+        "last_name": "Patel",
+        "email": "lisa.patel@uniofstn.edu",
+        "department": "Engineering",
+        "grade_level": "Senior",
+        "gpa": 3.37,
+        "date_of_birth": "2000-05-07",
+        "address": {
+            "street": "36800 Ryan Drive",
+            "city": "South Sarahmouth",
+            "state": "North Dakota",
+            "zip_code": "54991"
+        },
+        "courses": [
+            "Calculus",
+            "Web Development",
+            "Data Structures"
+        ],
+        "enrolled_date": "2025-02-17",
+        "is_active": false,
+        "phone_number": "561-744-5089x7153"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1482",
+        "student_id": 95539694,
+        "first_name": "Tami",
+        "last_name": "Randall",
+        "email": "tami.randall@uniofstn.edu",
+        "department": "Business",
+        "grade_level": "Freshman",
+        "gpa": 3.99,
+        "date_of_birth": "2006-09-01",
+        "address": {
+            "street": "21118 Ryan Walk",
+            "city": "West Patrick",
+            "state": "New Jersey",
+            "zip_code": "82120"
+        },
+        "courses": [
+            "Data Structures",
+            "Web Development",
+            "Calculus"
+        ],
+        "enrolled_date": "2023-12-09",
+        "is_active": false,
+        "phone_number": "001-464-477-1980x544"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1483",
+        "student_id": 58525258,
+        "first_name": "Priscilla",
+        "last_name": "Graves",
+        "email": "priscilla.graves@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Freshman",
+        "gpa": 2.53,
+        "date_of_birth": "2004-10-23",
+        "address": {
+            "street": "32403 Patrick Trail",
+            "city": "Jonathanbury",
+            "state": "West Virginia",
+            "zip_code": "27504"
+        },
+        "courses": [
+            "Physics",
+            "Programming",
+            "Machine Learning",
+            "Web Development",
+            "Calculus",
+            "Data Structures"
+        ],
+        "enrolled_date": "2022-08-18",
+        "is_active": false,
+        "phone_number": "+1-923-724-7789"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1484",
+        "student_id": 62901447,
+        "first_name": "Mary",
+        "last_name": "Martinez",
+        "email": "mary.martinez@uniofstn.edu",
+        "department": "Engineering",
+        "grade_level": "Junior",
+        "gpa": 2.44,
+        "date_of_birth": "2002-05-16",
+        "address": {
+            "street": "128 Rogers Lodge Apt. 752",
+            "city": "East Courtneyside",
+            "state": "West Virginia",
+            "zip_code": "98399"
+        },
+        "courses": [
+            "Physics",
+            "Programming",
+            "Data Structures"
+        ],
+        "enrolled_date": "2022-11-29",
+        "is_active": true,
+        "phone_number": "001-893-832-6141x20445"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1485",
+        "student_id": 77195753,
+        "first_name": "Kathryn",
+        "last_name": "Nelson",
+        "email": "kathryn.nelson@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Senior",
+        "gpa": 2.67,
+        "date_of_birth": "2001-03-14",
+        "address": {
+            "street": "0626 Daniel Ramp Apt. 566",
+            "city": "Riceton",
+            "state": "Georgia",
+            "zip_code": "78270"
+        },
+        "courses": [
+            "Database Systems",
+            "Physics",
+            "Calculus",
+            "Programming",
+            "Statistics",
+            "Machine Learning"
+        ],
+        "enrolled_date": "2025-02-15",
+        "is_active": false,
+        "phone_number": "439.540.5602x751"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1486",
+        "student_id": 2445920,
+        "first_name": "Andrew",
+        "last_name": "Martin",
+        "email": "andrew.martin@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Junior",
+        "gpa": 3.62,
+        "date_of_birth": "2003-12-09",
+        "address": {
+            "street": "15409 Samantha Parkways",
+            "city": "South Amy",
+            "state": "North Carolina",
+            "zip_code": "32226"
+        },
+        "courses": [
+            "Web Development",
+            "Data Structures",
+            "Calculus",
+            "Statistics"
+        ],
+        "enrolled_date": "2024-01-20",
+        "is_active": false,
+        "phone_number": "(585)209-9435x864"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1487",
+        "student_id": 52416060,
+        "first_name": "Danielle",
+        "last_name": "Jones",
+        "email": "danielle.jones@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Sophomore",
+        "gpa": 3.63,
+        "date_of_birth": "2006-07-09",
+        "address": {
+            "street": "66536 Laura Vista",
+            "city": "North Michael",
+            "state": "Indiana",
+            "zip_code": "53234"
+        },
+        "courses": [
+            "Calculus",
+            "Programming",
+            "Physics",
+            "Web Development",
+            "Data Structures",
+            "Statistics"
+        ],
+        "enrolled_date": "2022-09-13",
+        "is_active": true,
+        "phone_number": "352.469.8747"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1488",
+        "student_id": 13530280,
+        "first_name": "Danielle",
+        "last_name": "English",
+        "email": "danielle.english@uniofstn.edu",
+        "department": "Business",
+        "grade_level": "Junior",
+        "gpa": 2.17,
+        "date_of_birth": "1999-08-21",
+        "address": {
+            "street": "8756 Randall Lights Suite 510",
+            "city": "Lake Rebeccamouth",
+            "state": "Texas",
+            "zip_code": "79726"
+        },
+        "courses": [
+            "Web Development",
+            "Physics",
+            "Calculus",
+            "Machine Learning",
+            "Database Systems"
+        ],
+        "enrolled_date": "2024-10-27",
+        "is_active": false,
+        "phone_number": "(243)801-4449x03668"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1489",
+        "student_id": 51025163,
+        "first_name": "Mary",
+        "last_name": "Gonzales",
+        "email": "mary.gonzales@uniofstn.edu",
+        "department": "Mathematics",
+        "grade_level": "Freshman",
+        "gpa": 2.16,
+        "date_of_birth": "2002-05-31",
+        "address": {
+            "street": "10531 Sergio Club Suite 190",
+            "city": "Lake Jamesbury",
+            "state": "California",
+            "zip_code": "14150"
+        },
+        "courses": [
+            "Database Systems",
+            "Physics",
+            "Programming",
+            "Statistics",
+            "Web Development",
+            "Machine Learning"
+        ],
+        "enrolled_date": "2024-02-13",
+        "is_active": false,
+        "phone_number": "(664)700-8999x919"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d148a",
+        "student_id": 25918518,
+        "first_name": "Jamie",
+        "last_name": "Miles",
+        "email": "jamie.miles@uniofstn.edu",
+        "department": "Mathematics",
+        "grade_level": "Sophomore",
+        "gpa": 3.23,
+        "date_of_birth": "2000-06-12",
+        "address": {
+            "street": "1968 Pedro Bridge Apt. 078",
+            "city": "North Nicholaschester",
+            "state": "South Dakota",
+            "zip_code": "98306"
+        },
+        "courses": [
+            "Database Systems",
+            "Statistics",
+            "Calculus",
+            "Physics"
+        ],
+        "enrolled_date": "2022-03-24",
+        "is_active": true,
+        "phone_number": "001-738-324-2729x12978"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d148b",
+        "student_id": 41547950,
+        "first_name": "John",
+        "last_name": "Lopez",
+        "email": "john.lopez@uniofstn.edu",
+        "department": "Business",
+        "grade_level": "Freshman",
+        "gpa": 2.2,
+        "date_of_birth": "2002-09-08",
+        "address": {
+            "street": "511 Frazier Radial Suite 268",
+            "city": "Burnschester",
+            "state": "Wisconsin",
+            "zip_code": "22410"
+        },
+        "courses": [
+            "Web Development",
+            "Physics",
+            "Statistics",
+            "Programming"
+        ],
+        "enrolled_date": "2023-09-02",
+        "is_active": true,
+        "phone_number": "001-969-983-8239"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d148c",
+        "student_id": 2206762,
+        "first_name": "Gavin",
+        "last_name": "Gomez",
+        "email": "gavin.gomez@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Freshman",
+        "gpa": 2.06,
+        "date_of_birth": "2004-07-01",
+        "address": {
+            "street": "6249 Kayla Gateway Apt. 448",
+            "city": "Tiffanyberg",
+            "state": "Oklahoma",
+            "zip_code": "85479"
+        },
+        "courses": [
+            "Machine Learning",
+            "Statistics",
+            "Physics",
+            "Calculus"
+        ],
+        "enrolled_date": "2022-08-18",
+        "is_active": false,
+        "phone_number": "343.840.8658x685"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d148d",
+        "student_id": 26049897,
+        "first_name": "Steve",
+        "last_name": "Butler",
+        "email": "steve.butler@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Freshman",
+        "gpa": 2.01,
+        "date_of_birth": "2004-07-19",
+        "address": {
+            "street": "743 Michele Lodge Suite 860",
+            "city": "Butlerburgh",
+            "state": "South Dakota",
+            "zip_code": "96053"
+        },
+        "courses": [
+            "Machine Learning",
+            "Programming",
+            "Database Systems",
+            "Data Structures"
+        ],
+        "enrolled_date": "2021-06-08",
+        "is_active": true,
+        "phone_number": "001-949-897-8544x603"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d148e",
+        "student_id": 89582388,
+        "first_name": "Ethan",
+        "last_name": "Mckinney",
+        "email": "ethan.mckinney@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Junior",
+        "gpa": 3.44,
+        "date_of_birth": "2006-03-29",
+        "address": {
+            "street": "495 Brown Heights Apt. 625",
+            "city": "New Rose",
+            "state": "Michigan",
+            "zip_code": "44257"
+        },
+        "courses": [
+            "Physics",
+            "Machine Learning",
+            "Statistics",
+            "Programming"
+        ],
+        "enrolled_date": "2024-09-19",
+        "is_active": false,
+        "phone_number": "001-700-942-9781x006"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d148f",
+        "student_id": 19405709,
+        "first_name": "Thomas",
+        "last_name": "Pacheco",
+        "email": "thomas.pacheco@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Senior",
+        "gpa": 3.43,
+        "date_of_birth": "2002-04-16",
+        "address": {
+            "street": "950 Michael Union",
+            "city": "South Kimberly",
+            "state": "Hawaii",
+            "zip_code": "82524"
+        },
+        "courses": [
+            "Database Systems",
+            "Programming",
+            "Data Structures"
+        ],
+        "enrolled_date": "2023-11-23",
+        "is_active": false,
+        "phone_number": "001-249-214-3132x9905"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1490",
+        "student_id": 86726546,
+        "first_name": "Carrie",
+        "last_name": "Cameron",
+        "email": "carrie.cameron@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Sophomore",
+        "gpa": 3.4,
+        "date_of_birth": "1999-07-20",
+        "address": {
+            "street": "23293 Christopher Stream",
+            "city": "New Jennifertown",
+            "state": "Minnesota",
+            "zip_code": "66110"
+        },
+        "courses": [
+            "Data Structures",
+            "Physics",
+            "Machine Learning",
+            "Database Systems",
+            "Web Development"
+        ],
+        "enrolled_date": "2025-02-27",
+        "is_active": false,
+        "phone_number": "(676)295-2598x96861"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1491",
+        "student_id": 46009275,
+        "first_name": "Victoria",
+        "last_name": "Powers",
+        "email": "victoria.powers@uniofstn.edu",
+        "department": "Engineering",
+        "grade_level": "Junior",
+        "gpa": 2.14,
+        "date_of_birth": "2000-11-12",
+        "address": {
+            "street": "8385 Laura Square",
+            "city": "North Courtney",
+            "state": "Alabama",
+            "zip_code": "93626"
+        },
+        "courses": [
+            "Data Structures",
+            "Web Development",
+            "Machine Learning",
+            "Database Systems"
+        ],
+        "enrolled_date": "2022-12-02",
+        "is_active": false,
+        "phone_number": "265-253-5669x9016"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1492",
+        "student_id": 40890412,
+        "first_name": "Taylor",
+        "last_name": "Jones",
+        "email": "taylor.jones@uniofstn.edu",
+        "department": "Mathematics",
+        "grade_level": "Junior",
+        "gpa": 2.16,
+        "date_of_birth": "2002-10-31",
+        "address": {
+            "street": "130 Wilson Mountains Apt. 215",
+            "city": "Sanchezton",
+            "state": "South Carolina",
+            "zip_code": "76347"
+        },
+        "courses": [
+            "Database Systems",
+            "Physics",
+            "Calculus",
+            "Machine Learning",
+            "Data Structures"
+        ],
+        "enrolled_date": "2025-04-10",
+        "is_active": false,
+        "phone_number": "+1-545-890-1470x44824"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1493",
+        "student_id": 10215008,
+        "first_name": "Maurice",
+        "last_name": "Duffy",
+        "email": "maurice.duffy@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Senior",
+        "gpa": 2.45,
+        "date_of_birth": "1999-08-29",
+        "address": {
+            "street": "964 Rivera Groves",
+            "city": "Randallfort",
+            "state": "Ohio",
+            "zip_code": "39239"
+        },
+        "courses": [
+            "Statistics",
+            "Machine Learning",
+            "Database Systems"
+        ],
+        "enrolled_date": "2021-10-17",
+        "is_active": false,
+        "phone_number": "6708608592"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1494",
+        "student_id": 74715295,
+        "first_name": "Cynthia",
+        "last_name": "Lopez",
+        "email": "cynthia.lopez@uniofstn.edu",
+        "department": "Business",
+        "grade_level": "Junior",
+        "gpa": 3.92,
+        "date_of_birth": "2003-11-06",
+        "address": {
+            "street": "27687 Adam Course Apt. 459",
+            "city": "Paulview",
+            "state": "Iowa",
+            "zip_code": "40444"
+        },
+        "courses": [
+            "Data Structures",
+            "Programming",
+            "Machine Learning",
+            "Physics",
+            "Calculus",
+            "Database Systems"
+        ],
+        "enrolled_date": "2022-01-26",
+        "is_active": false,
+        "phone_number": "355-439-4861"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1495",
+        "student_id": 48492755,
+        "first_name": "Lisa",
+        "last_name": "Small",
+        "email": "lisa.small@uniofstn.edu",
+        "department": "Engineering",
+        "grade_level": "Sophomore",
+        "gpa": 2.72,
+        "date_of_birth": "2006-04-01",
+        "address": {
+            "street": "5466 Robinson Locks",
+            "city": "West Matthew",
+            "state": "California",
+            "zip_code": "58527"
+        },
+        "courses": [
+            "Programming",
+            "Web Development",
+            "Physics",
+            "Statistics"
+        ],
+        "enrolled_date": "2023-04-26",
+        "is_active": true,
+        "phone_number": "+1-630-318-0896x984"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1496",
+        "student_id": 1869794,
+        "first_name": "Kimberly",
+        "last_name": "Williams",
+        "email": "kimberly.williams@uniofstn.edu",
+        "department": "Engineering",
+        "grade_level": "Junior",
+        "gpa": 2.15,
+        "date_of_birth": "2005-03-23",
+        "address": {
+            "street": "93015 Matthews Creek",
+            "city": "Lake Jeffrey",
+            "state": "Delaware",
+            "zip_code": "95182"
+        },
+        "courses": [
+            "Machine Learning",
+            "Database Systems",
+            "Programming",
+            "Statistics",
+            "Data Structures"
+        ],
+        "enrolled_date": "2021-06-24",
+        "is_active": true,
+        "phone_number": "399-956-1322x809"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1497",
+        "student_id": 65603040,
+        "first_name": "Jeffrey",
+        "last_name": "Lara",
+        "email": "jeffrey.lara@uniofstn.edu",
+        "department": "Business",
+        "grade_level": "Sophomore",
+        "gpa": 3.23,
+        "date_of_birth": "2002-01-14",
+        "address": {
+            "street": "626 Shelby Shore",
+            "city": "Port Melissa",
+            "state": "California",
+            "zip_code": "43069"
+        },
+        "courses": [
+            "Statistics",
+            "Physics",
+            "Database Systems"
+        ],
+        "enrolled_date": "2021-12-02",
+        "is_active": true,
+        "phone_number": "260-729-4257x60308"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1498",
+        "student_id": 95186023,
+        "first_name": "Kathleen",
+        "last_name": "Stone",
+        "email": "kathleen.stone@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Freshman",
+        "gpa": 3.63,
+        "date_of_birth": "2001-03-15",
+        "address": {
+            "street": "03645 James Unions",
+            "city": "South Crystal",
+            "state": "Indiana",
+            "zip_code": "76611"
+        },
+        "courses": [
+            "Web Development",
+            "Statistics",
+            "Programming",
+            "Machine Learning",
+            "Physics"
+        ],
+        "enrolled_date": "2025-03-19",
+        "is_active": true,
+        "phone_number": "362.277.9401x45505"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d1499",
+        "student_id": 66575999,
+        "first_name": "Crystal",
+        "last_name": "Gonzalez",
+        "email": "crystal.gonzalez@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Freshman",
+        "gpa": 2.05,
+        "date_of_birth": "2005-08-01",
+        "address": {
+            "street": "520 Mitchell Villages",
+            "city": "East Robert",
+            "state": "Colorado",
+            "zip_code": "13360"
+        },
+        "courses": [
+            "Data Structures",
+            "Machine Learning",
+            "Statistics"
+        ],
+        "enrolled_date": "2023-12-18",
+        "is_active": true,
+        "phone_number": "001-787-473-2830x0020"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d149a",
+        "student_id": 338816,
+        "first_name": "Alice",
+        "last_name": "Owens",
+        "email": "alice.owens@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Junior",
+        "gpa": 3.69,
+        "date_of_birth": "2001-03-15",
+        "address": {
+            "street": "58108 Paul Port Suite 088",
+            "city": "Chrisbury",
+            "state": "Alaska",
+            "zip_code": "43743"
+        },
+        "courses": [
+            "Calculus",
+            "Data Structures",
+            "Physics",
+            "Statistics",
+            "Machine Learning"
+        ],
+        "enrolled_date": "2024-08-01",
+        "is_active": false,
+        "phone_number": "(546)780-8595x934"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d149b",
+        "student_id": 87453023,
+        "first_name": "Susan",
+        "last_name": "Russell",
+        "email": "susan.russell@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Sophomore",
+        "gpa": 2.98,
+        "date_of_birth": "2006-05-10",
+        "address": {
+            "street": "48203 James Valley",
+            "city": "Baldwinview",
+            "state": "Wyoming",
+            "zip_code": "41166"
+        },
+        "courses": [
+            "Statistics",
+            "Data Structures",
+            "Programming",
+            "Calculus",
+            "Web Development"
+        ],
+        "enrolled_date": "2024-04-28",
+        "is_active": true,
+        "phone_number": "515.427.9653"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d149c",
+        "student_id": 15560179,
+        "first_name": "Sandy",
+        "last_name": "Cardenas",
+        "email": "sandy.cardenas@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Sophomore",
+        "gpa": 3.35,
+        "date_of_birth": "2006-12-15",
+        "address": {
+            "street": "6614 Lopez Summit Apt. 220",
+            "city": "North Davidfurt",
+            "state": "New Hampshire",
+            "zip_code": "18125"
+        },
+        "courses": [
+            "Programming",
+            "Calculus",
+            "Machine Learning"
+        ],
+        "enrolled_date": "2024-11-27",
+        "is_active": true,
+        "phone_number": "001-767-422-0053x5694"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d149d",
+        "student_id": 85411091,
+        "first_name": "Joseph",
+        "last_name": "Thomas",
+        "email": "joseph.thomas@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Sophomore",
+        "gpa": 3.5,
+        "date_of_birth": "2002-12-05",
+        "address": {
+            "street": "5957 John Run Suite 893",
+            "city": "Port Stephen",
+            "state": "Oklahoma",
+            "zip_code": "44929"
+        },
+        "courses": [
+            "Programming",
+            "Data Structures",
+            "Statistics",
+            "Database Systems"
+        ],
+        "enrolled_date": "2023-09-01",
+        "is_active": false,
+        "phone_number": "+1-644-220-1899"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d149e",
+        "student_id": 69815563,
+        "first_name": "Christopher",
+        "last_name": "Martinez",
+        "email": "christopher.martinez@uniofstn.edu",
+        "department": "Mathematics",
+        "grade_level": "Junior",
+        "gpa": 2.45,
+        "date_of_birth": "1999-11-20",
+        "address": {
+            "street": "3277 Cooke Manor Apt. 736",
+            "city": "Deborahside",
+            "state": "Nevada",
+            "zip_code": "89243"
+        },
+        "courses": [
+            "Calculus",
+            "Programming",
+            "Database Systems",
+            "Physics",
+            "Machine Learning"
+        ],
+        "enrolled_date": "2022-12-14",
+        "is_active": true,
+        "phone_number": "(885)802-4742x49875"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d149f",
+        "student_id": 8455705,
+        "first_name": "Christina",
+        "last_name": "Lewis",
+        "email": "christina.lewis@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Senior",
+        "gpa": 2.9,
+        "date_of_birth": "2003-03-14",
+        "address": {
+            "street": "3332 Joseph Harbor",
+            "city": "Sandrafort",
+            "state": "Delaware",
+            "zip_code": "61434"
+        },
+        "courses": [
+            "Web Development",
+            "Machine Learning",
+            "Programming",
+            "Data Structures",
+            "Calculus"
+        ],
+        "enrolled_date": "2022-03-04",
+        "is_active": true,
+        "phone_number": "+1-457-234-7377"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d14a0",
+        "student_id": 9094308,
+        "first_name": "Christopher",
+        "last_name": "Montgomery",
+        "email": "christopher.montgomery@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Sophomore",
+        "gpa": 2.55,
+        "date_of_birth": "2004-08-10",
+        "address": {
+            "street": "15818 Parker Ports",
+            "city": "Colemanside",
+            "state": "New York",
+            "zip_code": "86955"
+        },
+        "courses": [
+            "Programming",
+            "Data Structures",
+            "Database Systems",
+            "Physics"
+        ],
+        "enrolled_date": "2025-01-26",
+        "is_active": true,
+        "phone_number": "940.350.0968x01676"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d14a1",
+        "student_id": 16441182,
+        "first_name": "Brittany",
+        "last_name": "Butler",
+        "email": "brittany.butler@uniofstn.edu",
+        "department": "Mathematics",
+        "grade_level": "Junior",
+        "gpa": 3.99,
+        "date_of_birth": "2004-05-27",
+        "address": {
+            "street": "66781 Meyer View Suite 867",
+            "city": "Port Donna",
+            "state": "Virginia",
+            "zip_code": "24113"
+        },
+        "courses": [
+            "Programming",
+            "Physics",
+            "Database Systems",
+            "Statistics",
+            "Calculus",
+            "Machine Learning"
+        ],
+        "enrolled_date": "2025-02-11",
+        "is_active": false,
+        "phone_number": "+1-732-372-3612"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d14a2",
+        "student_id": 66475423,
+        "first_name": "Larry",
+        "last_name": "Donovan",
+        "email": "larry.donovan@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Freshman",
+        "gpa": 3.41,
+        "date_of_birth": "2001-07-17",
+        "address": {
+            "street": "01834 Hanna Street",
+            "city": "East John",
+            "state": "Washington",
+            "zip_code": "22339"
+        },
+        "courses": [
+            "Database Systems",
+            "Programming",
+            "Web Development"
+        ],
+        "enrolled_date": "2022-06-30",
+        "is_active": false,
+        "phone_number": "+1-661-806-8145x172"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d14a3",
+        "student_id": 39256913,
+        "first_name": "Rebecca",
+        "last_name": "Owens",
+        "email": "rebecca.owens@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Sophomore",
+        "gpa": 2.04,
+        "date_of_birth": "2005-11-30",
+        "address": {
+            "street": "3304 Reilly Passage Apt. 162",
+            "city": "Port Williamfurt",
+            "state": "Michigan",
+            "zip_code": "98743"
+        },
+        "courses": [
+            "Physics",
+            "Data Structures",
+            "Machine Learning",
+            "Statistics",
+            "Database Systems"
+        ],
+        "enrolled_date": "2024-11-12",
+        "is_active": true,
+        "phone_number": "463.612.0521x5934"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d14a4",
+        "student_id": 25787605,
+        "first_name": "Michael",
+        "last_name": "Austin",
+        "email": "michael.austin@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Freshman",
+        "gpa": 3.34,
+        "date_of_birth": "2005-04-01",
+        "address": {
+            "street": "77055 Traci Bridge Apt. 497",
+            "city": "Williamshaven",
+            "state": "Nebraska",
+            "zip_code": "33672"
+        },
+        "courses": [
+            "Physics",
+            "Programming",
+            "Web Development",
+            "Statistics"
+        ],
+        "enrolled_date": "2024-07-17",
+        "is_active": true,
+        "phone_number": "+1-905-423-3257x4952"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d14a5",
+        "student_id": 14133198,
+        "first_name": "Brandy",
+        "last_name": "Pena",
+        "email": "brandy.pena@uniofstn.edu",
+        "department": "Computer Science",
+        "grade_level": "Senior",
+        "gpa": 3.07,
+        "date_of_birth": "2004-02-07",
+        "address": {
+            "street": "817 Noble Canyon",
+            "city": "East Donaldstad",
+            "state": "New York",
+            "zip_code": "09748"
+        },
+        "courses": [
+            "Data Structures",
+            "Statistics",
+            "Calculus",
+            "Machine Learning",
+            "Programming",
+            "Database Systems"
+        ],
+        "enrolled_date": "2023-05-23",
+        "is_active": true,
+        "phone_number": "5916934951"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d14a6",
+        "student_id": 12691874,
+        "first_name": "Melissa",
+        "last_name": "Peck",
+        "email": "melissa.peck@uniofstn.edu",
+        "department": "Physics",
+        "grade_level": "Sophomore",
+        "gpa": 2.16,
+        "date_of_birth": "2001-01-13",
+        "address": {
+            "street": "368 Terri Squares Apt. 167",
+            "city": "Meganfort",
+            "state": "Indiana",
+            "zip_code": "70768"
+        },
+        "courses": [
+            "Database Systems",
+            "Physics",
+            "Statistics",
+            "Machine Learning"
+        ],
+        "enrolled_date": "2024-09-26",
+        "is_active": true,
+        "phone_number": "+1-882-750-3530x13761"
+    },
+    {
+        "_id": "68332eb9da0b77ec6b8d14a7",
+        "student_id": 57801996,
+        "first_name": "Beverly",
+        "last_name": "Williams",
+        "email": "beverly.williams@uniofstn.edu",
+        "department": "Mathematics",
+        "grade_level": "Junior",
+        "gpa": 3.08,
+        "date_of_birth": "2006-09-22",
+        "address": {
+            "street": "42965 Bell Canyon Apt. 265",
+            "city": "South Alyssa",
+            "state": "Arkansas",
+            "zip_code": "73591"
+        },
+        "courses": [
+            "Calculus",
+            "Data Structures",
+            "Programming",
+            "Statistics"
+        ],
+        "enrolled_date": "2021-09-14",
+        "is_active": true,
+        "phone_number": "692.746.6320x8836"
+    }
+]
