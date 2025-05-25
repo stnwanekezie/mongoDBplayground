@@ -29,16 +29,18 @@ This project demonstrates comprehensive MongoDB operations using PyMongo, includ
   - Install **MongoDB Compass** (GUI tool)
   - Check **Install MongoDB as a Service**
 
-### 2. Add `mongosh` to System Variables (Windows)
+### 2. Download and add `mongosh` to System Variables (Windows)
 
-1. Open **System Properties**
-2. Go to **Environment Variables**
-3. Under **System Variables**, select `Path` → Click **Edit** → **New**
-4. Add path:  
+1.Download the zip file from [MongoDB Download Center](https://www.mongodb.com/try/download/shell)
+2. Extract the zip file contents to ```C:\Program Files\MongoDB```
+3. Open **System Properties**
+4. Go to **Environment Variables**
+5. Under **System Variables**, select `Path` → Click **Edit** → **New**
+6. Add path:  
    ```
-   C:\Program Files\MongoDB\Server\{version}\bin
+   C:\Program Files\MongoDB\mongosh-<version>-win32-x64\bin
    ```
-5. Click **OK** to save
+7. Click **OK** to save
 
 ### 3. Install VS Code Extensions
 
@@ -50,7 +52,7 @@ While this repo focuses on using pymongo, you may use the MongoDB shell (mongosh
    ```bash
    mongosh
    ```
-   This should start the MongoDB shell where you can access your databases.
+   This should start the MongoDB shell which allows you access your databases.
 
 ### 4. Python Setup
 
