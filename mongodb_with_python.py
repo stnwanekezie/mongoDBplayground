@@ -70,7 +70,7 @@ avg_by_dept = list(
 # Updating a document - use update_many for multiple updates
 record = list(
     collection.find(
-        {"_id": ObjectId("682e746bda0b77ec6b8d1444")},
+        {"_id": ObjectId("68332eb9da0b77ec6b8d1476")},
         {"_id": False, "first_name": True, "department": True},
     )
 )  # Check existing records and excluding _id from output
@@ -111,13 +111,15 @@ else:
 count_financial_services = collection.count_documents({"department": "Business"})
 
 # count of documents by department
-count_by_department = collection.aggregate(
-    [
-        {
-            "$group": {"_id": "$department", "count": {"$sum": 1}}
-        },  # add one per document
-        {"$sort": {"count": 1}},
-    ]  # sort by count ascending. Use -1 for descending.
+count_by_department = list(
+    collection.aggregate(
+        [
+            {
+                "$group": {"_id": "$department", "count": {"$sum": 1}}
+            },  # add one per document
+            {"$sort": {"count": 1}},
+        ]  # sort by count ascending. Use -1 for descending.
+    )
 )
 
 # Export as JSON file
@@ -157,7 +159,7 @@ tmp = list(
 )
 
 # Comparison operators. See use of $gte, $lte above. Others are $ne, $in, $nin, $all
-comp_eng_first_class = list(
+comp_oprs = list(
     collection.find(
         {
             "gpa": {"$gte": 3.5, "$lte": 4.0},
@@ -168,6 +170,35 @@ comp_eng_first_class = list(
             "address.state": {"$in": ["Alaska", "Indiana", "Washington"]},
         },
         {"_id": False, "first_name": True, "last_name": True, "gpa": True},
+    )
+)
+
+# Example combining multiple logical operators
+logical_oprs = list(
+    collection.find(
+        {
+            "$and": [
+                # Must be either CS or Engineering
+                {
+                    "$or": [
+                        {"department": "Computer Science"},
+                        {"department": "Engineering"},
+                    ]
+                },
+                # Must have good GPA and specific courses
+                {"gpa": {"$gte": 3.5}},
+                {"courses": {"$all": ["Programming", "Database Systems"]}},
+                # Must not be from these states
+                {"$nor": [{"address.state": "Alaska"}, {"address.state": "Hawaii"}]},
+            ]
+        },
+        {
+            "_id": False,
+            "first_name": True,
+            "last_name": True,
+            "department": True,
+            "gpa": True,
+        },
     )
 )
 
